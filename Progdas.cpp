@@ -36,4 +36,6 @@ int main()
     cin >> car.yearBuilt;
     cout << "prices: $";
     cin >> car.price;
+
+    return 0;
 }
